@@ -1,0 +1,6 @@
+﻿User-agent: *
+Disallow: /*?*
+Sitemap: https://avtosa.github.io/sitemap.xml
+
+User agent: Googlebot
+Disallow: /
